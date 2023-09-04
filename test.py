@@ -13,3 +13,5 @@ sum2 = m + n + h
 print(sum2)
 finalrslt = sum * sum2 - m; result = m/h * (a+n)
 print(finalrslt,result)
+
+# Pra

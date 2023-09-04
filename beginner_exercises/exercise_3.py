@@ -1,4 +1,7 @@
 # Input string
 word = input("Input a string: ")
-# print even characters
-print("Even characters: ", word[1::2])
+for x in range(len(word)):
+    if x % 2 == 0:
+        print(word[x], end="")
+    # Alternatively
+# print("Even characters: ", word[::2])
