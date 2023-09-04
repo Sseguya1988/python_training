@@ -1,4 +1,3 @@
-
 # Input string
 word = input("Input a string: ")
 for x in range(len(word)):
