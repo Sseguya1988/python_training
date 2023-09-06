@@ -1,3 +1,5 @@
+# Exercise 4: Remove first n characters from a string
+
 # Input a string to process
 w = input("Write a string: ")
 # Number of characters to remove from the left
