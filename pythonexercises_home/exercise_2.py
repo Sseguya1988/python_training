@@ -1,3 +1,5 @@
+# Exercise 2: Read text file into a variable and replace all newlines with space
+
 # Write data in sample.txt
 # Open a txt file and name it
 file = open("sample.txt", "w")
