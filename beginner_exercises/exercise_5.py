@@ -1,3 +1,5 @@
+# Exercise 5: Check if the first and last number of a list is the same
+
 # The list of numbers to be checked
 numbers_x = [5, 2, 3, 4, 5]
 numbers_y = [12, 2, 3, 4, 10, 11, 12]
