@@ -1,3 +1,5 @@
+# Exercise 1: Reverse each word of a string
+
 words = input("Enter a sentence: ").split()
 reverse_words = []
 for i in words:
