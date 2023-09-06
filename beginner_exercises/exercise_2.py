@@ -1,3 +1,4 @@
+# Exercise 2: Print the sum of the current number and the previous number
 for x in range(10):
     if x == 0:
         print('Current number',x,'Previous number',x,'Sum:',x+x)
