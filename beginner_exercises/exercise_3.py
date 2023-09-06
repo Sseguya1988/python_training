@@ -1,3 +1,5 @@
+# Exercise 3: Print characters from a string that are present at an even index number
+
 # Input string
 word = input("Input a string: ")
 for x in range(len(word)):
