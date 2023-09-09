@@ -12,3 +12,5 @@ for i in sample_list:
 # Print duplicate values in a list
 print(dupl)
 
+# I need help on how to rearrange the output to have 60 in the middle
+
