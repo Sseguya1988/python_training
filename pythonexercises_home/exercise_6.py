@@ -10,3 +10,7 @@ for key in keys_filter:
         filtered_dict[key] = di[key]
 print(filtered_dict)
 
+"""
+filtered_dict = {key: ascii_dict[key] for key in keys_to_filter}
+"""
+
