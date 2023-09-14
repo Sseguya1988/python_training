@@ -2,4 +2,4 @@
 decimal_num = int(input("Enter the decimal number: "))
 # convert to octal
 oct_num = oct(decimal_num)
-print(oct_num)
+print(f"The octal number of decimal number {decimal_num} is {oct_num}")
