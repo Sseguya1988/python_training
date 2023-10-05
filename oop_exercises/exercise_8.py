@@ -11,3 +11,7 @@ class Bus(Vehicle):
 
 
 School_bus = Bus("School Volvo", 12, 50)
+if isinstance(School_bus, Vehicle):
+    print("School_bus is an instance of the Vehicle class")
+else:
+    print("School_bus is not an instance of the Vehicle class")
