@@ -1,5 +1,5 @@
 # Exercise 7: Convert the following JSON into Vehicle Object
-import json
+# import json
 # Define the object class or Vehicle class
 class Vehicle:
     def __init__(self, name, engine, price):
