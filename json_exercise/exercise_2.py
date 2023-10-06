@@ -4,5 +4,6 @@ import json
 sample_json = """{"key1": "value1", "key2": "value2"}"""
 # convert json string into python dictionary
 json_data = json.loads(sample_json)
+# extract the key2 value
 value2 = json_data["key2"]
 print(value2)
