@@ -16,4 +16,5 @@ sampleJson = """{
 new_samplejson = json.loads(sampleJson)
 # Access the nested key "salary" and print its value
 salary_value = new_samplejson["company"]["employee"]["payble"]["salary"]
+#print(new_samplejson)
 print(f"The value for salary is {salary_value}")
