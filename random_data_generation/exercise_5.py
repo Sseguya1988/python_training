@@ -8,7 +8,7 @@ def random_string(length):
     # should include both upper and lowercase characters
     result_rand_str = "".join(random.choice(string.ascii_letters) for i in range(length))
     # print this random list
-    print(result_rand_str)
+    print(f"The random string of length five is: {result_rand_str}")
 
 
 # apply this function
