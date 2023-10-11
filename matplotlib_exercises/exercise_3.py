@@ -26,6 +26,9 @@ plt.plot(months, moisturizer, marker="o", color="#8B4513", linestyle="-", marker
 plt.xlabel("Month Number")
 plt.ylabel("Sales units in number")
 
+# set title
+plt.title("Sales data")
+
 # add a legend
 plt.legend(loc="upper left")
 
