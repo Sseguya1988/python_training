@@ -10,7 +10,7 @@ months = sales_data["month_number"]
 profits = sales_data["total_profit"]
 
 # generate plot for the total profits over months
-plt.plot(months, profits, marker="o", linestyle="dotted", color="r", linewidth="3", markersize="6", label="Total Profits")
+plt.plot(months, profits, marker="o", linestyle="dashed", color="r", linewidth="3", markerfacecolor="k", markersize="6", label="Total Profits")
 
 # set X and Y labels
 plt.xlabel("Month Number")
