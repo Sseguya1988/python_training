@@ -8,4 +8,4 @@ substring = "Emma"
 
 # count how many times this exists
 Emma_count = str_x.count(substring)
-print(Emma_count)
+print(f"Emma appeared {Emma_count} times")
